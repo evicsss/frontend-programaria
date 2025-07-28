@@ -15,7 +15,7 @@ Este projeto é uma página web dedicada a homenagear mulheres que marcaram a hi
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript 
 
 ## 📸 Layout
 
@@ -23,8 +23,9 @@ O projeto possui uma interface simples, colorida e inspiradora, com foco na leit
 
 
 
-Este projeto foi criado como parte do meu aprendizado em desenvolvimento front-end.
-Desenvolvido com 💜 por Évila Oliveira
+- Este projeto foi criado como parte do meu aprendizado em desenvolvimento front-end.
+
+- Desenvolvido com 💜 por Évila Oliveira
 
 
 
